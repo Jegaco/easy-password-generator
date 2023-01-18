@@ -2,7 +2,7 @@
 
 ## Description
 ## Challenge 03 JavaScript Password Generator
-In this project the task was to modify the starter code that was given and create am application that allows 
+In this project the task was to modify the starter code that was given and create an application that allows 
 employees/users to generate a randomized password based on criteria they have selected. This app will run in the browser and alert the user with prompts for the password criteria when the "Generate a Password" is clicked.
 
 ## Challenges
